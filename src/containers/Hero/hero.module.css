@@ -1,0 +1,205 @@
+/* Hero-section */
+.color {
+    background-color: red;
+    width: 150px;
+    height: 100px;
+}
+
+#hero {
+    background-color: #EAF0FF;
+    height: 50rem,
+}
+
+.textHero {
+    color: rgb(37, 37, 37);
+    font-family: "Roboto";
+    font-size: 78px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 97px;
+    height: 35rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.headImage {
+    z-index: 9999;
+    position: absolute;
+    right: 14rem;
+    top: 5rem;
+}
+
+.bgImage {
+    position: absolute;
+    right: 10rem;
+    top: 9rem;
+}
+
+.btnGen {
+    transition: 1s;
+}
+
+.bgText {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.2) 100%), linear-gradient(180deg, rgba(241, 89, 88, 0.63) 0%, rgba(70, 99, 169, 0.63) 100%);
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 28px;
+    font-weight: 400;
+    padding: 10px 0;
+    line-height: normal;
+}
+
+.website {
+    width: 200px;
+    top: -5.5rem;
+    left: -4rem;
+    border-radius: 50px 50px 0 50px;
+    z-index: 99999;
+}
+
+.branding {
+    width: 200px;
+    top: 9rem;
+    left: -7rem;
+    border-radius: 50px 50px 0 50px;
+    z-index: 99999;
+}
+
+.texHeaderImg {
+    position: absolute;
+    top: 50%;
+}
+
+.seo {
+    top: -4rem;
+    width: 135px;
+    left: 20rem;
+    border-radius: 50px 50px 50px 0px;
+    z-index: 999;
+}
+
+.smm {
+    top: 8rem;
+    width: 135px;
+    left: 23rem;
+    border-radius: 50px 50px 50px 0px;
+    z-index: 99999;
+}
+
+.branding {
+    top: 9rem;
+    width: 200px;
+    left: -7rem;
+    border-radius: 50px 50px 0px 50px;
+    z-index: 99999;
+}
+
+.logoAdd {
+    position: absolute;
+}
+
+.logoOne {
+    position: absolute;
+    left: -6rem;
+}
+
+.logotwo {
+    position: absolute;
+    top: 16rem;
+    left: -6rem;
+
+}
+
+.logothree {
+    position: absolute;
+    top: 21rem;
+    left: 6rem;
+}
+
+.content {
+    display: flex;
+    border-radius: 24px;
+    background: rgba(68, 99, 171, 0.20);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.10);
+    backdrop-filter: blur(3.2390730381011963px);
+    padding: 20px;
+    justify-content: space-around;
+    width: 1089px;
+    height: 200px;
+}
+
+.resultBranding p:nth-of-type(1) {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 19.434px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.resultBranding p:nth-of-type(2) {
+    color: #FFF;
+    font-family: Istok Web;
+    font-size: 66.077px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+/* .light{
+    position: absolute;
+    right: 18rem;
+    top: 8.2rem;
+    z-index: 9999;
+    cursor: pointer;
+} */
+.art p {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 19.434px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.cardProfile {
+    display: flex;
+    position: relative;
+}
+
+.cardProfile img {
+    width: 56.684px;
+    height: 56.684px;
+    border-radius: 56.684px;
+    /* border: 1.62px solid var(--mini, #5DA8E1); */
+}
+
+.cardProfile img:nth-child(1) {
+    position: absolute;
+    left: -20px;
+}
+
+.cardProfile img:nth-child(2) {
+    position: absolute;
+    left: 10px;
+}
+
+.cardProfile img:nth-child(3) {
+    position: absolute;
+    left: 40px;
+}
+
+.cardProfile img:nth-child(4) {
+    position: absolute;
+    left: 70px;
+}
+
+.cardProfile img:nth-child(5) {
+    position: absolute;
+    left: 100px;
+}
+
+
+/* Hero-section */
